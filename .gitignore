@@ -1,0 +1,12 @@
+# Hugo generated content
+/public/
+/resources/
+/themes/
+
+# Hugo build lock file
+.hugo_build.lock
+
+# Other common exclusions
+.DS_Store
+.vscode/
+node_modules/
